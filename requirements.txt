@@ -1,0 +1,10 @@
+# xDrive v2.1i4 dependencies
+webview>=0.4.0
+vgamepad>=0.0.5
+psutil>=5.9.0
+mss>=9.0.1
+opencv-python>=4.8.0
+numpy>=1.24.0
+pynput>=1.7.6
+requests>=2.31.0
+pyinstaller>=6.0.0
